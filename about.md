@@ -1,4 +1,9 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Mustafa Arikan
+MPhil/Ph.D. student at the University College London
+My research interests are machine/deep learning for medical imaging, disease progression, clinical trial design and image registration.<br />
+Github: https://github.com/MustafaArikan
 
+Previously I was a Research Engineer at the Medical University of Vienna within the Department of Ophthalmology and Optometry (OPTIMA lab)
+E-Mail: mustafa.arikan(at sign)ucl.ac.uk
