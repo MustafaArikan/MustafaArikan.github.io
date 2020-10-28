@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
+Hi, this is a *blog* I started to keep track of interesting algorithms and other ideas.
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## First entry
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+This blog is using fast_template[link to fast.ai](https://www.fast.ai/2020/01/16/fast_template/).
