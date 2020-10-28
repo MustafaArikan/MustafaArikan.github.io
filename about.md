@@ -1,9 +1,11 @@
 # About
 
-Mustafa Arikan
-MPhil/Ph.D. student at the University College London
-My research interests are machine/deep learning for medical imaging, disease progression, clinical trial design and image registration.<br />
-Github: https://github.com/MustafaArikan
-
-Previously I was a Research Engineer at the Medical University of Vienna within the Department of Ophthalmology and Optometry (OPTIMA lab)
-E-Mail: mustafa.arikan(at sign)ucl.ac.uk
+Mustafa Arikan <br />
+<br />
+MPhil/Ph.D. student at the IoO/University College London.<br />
+My research interests are machine/deep learning for medical imaging (e.g. in ophthalmology).<br />
+Github: https://github.com/MustafaArikan<br />
+Previously I was a Research Engineer at the Medical University of Vienna within the Department of Ophthalmology and Optometry (OPTIMA lab).<br />
+<br />
+<br />
+E-Mail: mustafa.arikan(at sign)ucl.ac.uk<br />
