@@ -1,4 +1,4 @@
-# Search files iteratively in Python 3
+# Search files iteratively in Python
 
 Here's the table of contents:
 
