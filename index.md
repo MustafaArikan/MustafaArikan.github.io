@@ -1,4 +1,4 @@
-Hi, this is a *blog* I started to keep track of interesting algorithms and other ideas.
+Hi, this is a *blog* I started to keep track of interesting algorithms and other ideas (but mostly snippets for reuse).
 
 ## First entry
 
