@@ -8,7 +8,7 @@ Here's the table of contents:
 ## Use ReadImage to load and convert to a numpy array
 
 ```
-		import SimpleITK as sitk
+    import SimpleITK as sitk
     volume = sitk.ReadImage("./image.mhd");
     volume_np = sitk.GetArrayFromImage(volume);
     print (volume_np.shape);
