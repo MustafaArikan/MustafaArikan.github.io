@@ -1,11 +1,11 @@
-# Get weights from a parallel model and save a single GPU model in Keras
+# Get weights from a parallel model and save as a single GPU model in Keras
 
 Here's the table of contents:
 
 1. TOC
 {:toc}
 
-## Use ReadImage to load and convert to a numpy array
+## Load into a multi-gpu model and save the weights for a single-gpu model
 
 ```
     import numpy as np
