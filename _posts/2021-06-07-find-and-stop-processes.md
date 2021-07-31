@@ -1,4 +1,4 @@
-# Find and kill linux processes
+# Find and stop linux processes
 
 Here's the table of contents:
 
