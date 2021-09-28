@@ -27,4 +27,13 @@ def chunks(lst, n):
 [See!](https://stackoverflow.com/a/312464)
 
 
+## Change directory
+
+```
+import os
+os.chdir(path)
+```
+
+
+
 
