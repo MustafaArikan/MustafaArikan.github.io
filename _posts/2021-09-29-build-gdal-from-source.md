@@ -25,3 +25,14 @@ wget https://files.pythonhosted.org/packages/f4/da/3b638a0516e190d49241de4319b6e
 pip install planetary_computer-0.4.2-py3-none-any.whl
 ```
 
+## Get pystac
+
+```
+wget https://github.com/stac-utils/pystac/archive/refs/tags/v1.1.0.tar.gz
+tar xfvz v1.1.0.tar.gz 
+cd pystac-1.1.0/
+pip install .
+```
+
+
+
