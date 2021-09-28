@@ -34,6 +34,16 @@ import os
 os.chdir(path)
 ```
 
+## Min max normalize np array
+
+```
+import numpy as np
+normalized = (x-np.min(x))/(np.max(x)-np.min(x))
+```
+
+[See!](https://stats.stackexchange.com/a/70807)
+
+
 
 
 
