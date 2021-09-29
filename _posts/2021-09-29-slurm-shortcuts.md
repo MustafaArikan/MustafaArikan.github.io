@@ -18,5 +18,13 @@ sinfo
 squeue -h -j jodid -o %L
 ```
 
+## Sort jobs by id
+
+```
+squeue -a | sort -t, -nk1
+```
+
+
+
 [See!](https://support.ceci-hpc.be/doc/_contents/SubmittingJobs/SlurmFAQ.html)
 
