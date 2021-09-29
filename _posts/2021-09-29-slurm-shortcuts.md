@@ -11,5 +11,12 @@ Here's the table of contents:
 sinfo
 ```
 
-[See!](https://notyet/)
+
+## Get remaining time (time limit) of a job
+
+```
+squeue -h -j jodid -o %L
+```
+
+[See!](https://support.ceci-hpc.be/doc/_contents/SubmittingJobs/SlurmFAQ.html)
 
