@@ -44,6 +44,20 @@ normalized = (x-np.min(x))/(np.max(x)-np.min(x))
 [See!](https://stats.stackexchange.com/a/70807)
 
 
+## tar a directory, use split and send files with rclone
 
+```
+tar cf big_file.tar big_file/ &
+split -b 1024M ./big_file.tar big_file.tar.part &
+```
 
+or
+```
+tar cf - big_file | split --bytes=1024MB - big_file_tar/big_file.tar. &
+```
+
+and
+```
+time rclone -vv --opendrive-chunk-size=32000k --checkers=4 --transfers=8 --buffer-size=32000M copy big_file_tar/ opendrive:root/big_file_tar &> big_file.out &
+```
 
