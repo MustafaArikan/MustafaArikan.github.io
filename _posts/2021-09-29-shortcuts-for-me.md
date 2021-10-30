@@ -61,3 +61,10 @@ and
 time rclone -vv --opendrive-chunk-size=32000k --checkers=4 --transfers=8 --buffer-size=32000M copy big_file_tar/ opendrive:root/big_file_tar &> big_file.out &
 ```
 
+## Get rows with same string from pandas dataframe
+
+```
+df.loc[df['column_name'] == "string"]
+```
+
+[See!](https://stackoverflow.com/a/17071908)
