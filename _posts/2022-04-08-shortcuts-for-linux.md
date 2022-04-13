@@ -1,4 +1,4 @@
-# Some shortcuts for latex
+# Some shortcuts for Linux
 
 Here's the table of contents:
 
