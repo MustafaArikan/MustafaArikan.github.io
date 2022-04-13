@@ -8,7 +8,7 @@ Here's the table of contents:
 ## Show size of folders using du
 
 ```
-du -chs * --exclude=/media/ --exclude=/mnt/ | sort -h
+du -chs * --exclude=/media --exclude=/mnt | sort -h
 ```
 
 [See!](https://unix.stackexchange.com/questions/23692/using-exclude-with-the-du-command)
