@@ -44,6 +44,14 @@ docker cp container_id:/src/. target
 docker image rm
 ```
 
+## Commit changes to image
+
+```
+docker commit -m "Changed" image_name
+```
+[See!](https://stackoverflow.com/questions/26199903/how-to-see-commit-message-from-docker-images)
+
+
 
 
 
