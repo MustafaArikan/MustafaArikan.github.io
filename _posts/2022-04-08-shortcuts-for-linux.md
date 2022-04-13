@@ -21,5 +21,13 @@ apt list --installed
 
 [See!](https://askubuntu.com/questions/17823/how-to-list-all-installed-packages)
 
+## Show differences between folders
+
+```
+diff -qr dir1 dir2
+```
+
+[See!](https://stackoverflow.com/questions/6217628/diff-to-output-only-the-file-names)
+
 
 
