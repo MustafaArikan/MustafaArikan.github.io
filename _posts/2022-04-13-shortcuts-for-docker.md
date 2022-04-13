@@ -27,3 +27,17 @@ sudo docker run -v /home/user/<path>:/<container path>
 ```
 
 [See!](https://stackoverflow.com/questions/31448821/how-to-write-data-to-host-file-system-from-docker-container)
+
+
+## Copy file from and to container
+
+```
+docker cp src/. container_id:/target
+docker cp container_id:/src/. target
+```
+
+[See!](https://stackoverflow.com/questions/22907231/how-to-copy-files-from-host-to-docker-container)
+
+
+
+
