@@ -38,6 +38,13 @@ docker cp container_id:/src/. target
 
 [See!](https://stackoverflow.com/questions/22907231/how-to-copy-files-from-host-to-docker-container)
 
+## Delete image
+
+```
+docker image rm
+```
+
+
 
 
 
