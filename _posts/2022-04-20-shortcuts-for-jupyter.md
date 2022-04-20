@@ -8,7 +8,11 @@ Here's the table of contents:
 ## View variables
 
 ```
-dir()
+dir() #or
+
+import sys, pprint
+sys.displayhook = pprint.pprint
+locals()
 ```
 
 [See!](https://www.wrighters.io/how-to-view-all-your-variables-in-a-jupyter-notebook/)
