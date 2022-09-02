@@ -70,7 +70,7 @@ matrix = NormalizeData(matrix)
 from matplotlib import pylab as plt
 plt.imshow(matrix,cmap="gray")
 
-![Cities](/images/Cities_Matrix.png)
+
 
 # Import the geodesic module from geopy library 
 from geopy.distance import geodesic as GD
@@ -81,6 +81,8 @@ print("The distance between Abuja and Dakar is: ", GD(citiesKM[0],citiesKM[-1]).
 #The distance between Abuja and Dakar is:  10423.219350045409
 
 ```
+
+![Cities](/images/Cities_Matrix.png)
 
 ## Spectral Clustering
 
@@ -125,11 +127,11 @@ plt.ylabel("class imbalance metric (std)")
 ax.grid()
 
 
-![Cities](/images/Clusters_Imbalance.png)
 
 ```
 
 
+![Cities](/images/Clusters_Imbalance.png)
 
 
 
