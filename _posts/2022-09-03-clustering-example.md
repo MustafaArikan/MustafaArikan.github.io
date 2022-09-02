@@ -23,9 +23,6 @@ cities = ["Nairobi, Kenya", "Mombasa, Kenya", "Nakuru, Kenya", "Ruiru, Kenya", "
           "Yokohama, Japan","Kobe, Japan","Incheon, South Korea","Shanghai, China",
           "Buenos Aires, Argentina","Rosario, Argentina","La Plata, Argentina","Salta, Argentina",
          "Sydney, Australia","Melbourne, Australia","Brisbane, Australia","Perth, Australia","Adelaide, Australia","Hobart, Australia","Darwin, Australia"]
-         #"Cambridge, UK","London, UK","Watford, UK","Edinburgh, UK","Oxford, UK","Leicester, UK","Southampton, UK","Manchester, UK","Liverpool, UK","Aberdeen, UK"]
-         #"Linz, Austria","Inzersdorf im Kremstal, Austria","Vienna, Austria","Salzburg, Austria","Graz, Austria","Wels, Austria"]
-         #"Vancouver, Canada","Edmonton, Canada","Montreal, Canada","Toronto, Canada","London, Canada",]
          
 #for 
 x_ = [];
