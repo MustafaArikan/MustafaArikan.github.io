@@ -29,5 +29,15 @@ diff -qr dir1 dir2
 
 [See!](https://stackoverflow.com/questions/6217628/diff-to-output-only-the-file-names)
 
+## Run linux command from python and get the output
+
+```
+import subprocess
+result = subprocess.run(['ls', '-l'], stdout=subprocess.PIPE)
+result.stdout
+```
+
+[See!](https://stackoverflow.com/questions/4760215/running-shell-command-and-capturing-the-output)
+
 
 
