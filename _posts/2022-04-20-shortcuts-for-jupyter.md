@@ -26,6 +26,17 @@ locals()
 [See!](https://stackoverflow.com/questions/50177616/renaming-a-variable-everywhere-in-jupyter-notebook)
 
 
+## Show running jupyterlab instances
+
+```
+jupyter server list
+```
+
+[See!](https://stackoverflow.com/questions/50607756/list-running-instances-of-jupyter-lab)
+
+
+
+
 
 
 
