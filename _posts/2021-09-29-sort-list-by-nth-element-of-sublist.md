@@ -22,4 +22,5 @@ sorted_by_whichEl = (Sort(sub_li));
 ```
 
 [See!](https://www.geeksforgeeks.org/python-sort-list-according-second-element-sublist/)
+<br>For more informartion, [click here!](https://www.scaler.com/topics/sorted-function-in-python/)
 
